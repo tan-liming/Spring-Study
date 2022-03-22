@@ -9,7 +9,12 @@
     <context:annotation-config/>
 
     <bean id="cat111" class="com.pojo.Cat"/>
-    <bean id="dog" class="com.pojo.Dog"/>
+    <bean id="dog" class="com.pojo.Dog">
+        <property name="name" value="旺财"/>
+    </bean>
+    <bean id="dog1" class="com.pojo.Dog">
+        <property name="name" value="黑皇"/>
+    </bean>
 
     <bean id="people" class="com.pojo.People">
     </bean>

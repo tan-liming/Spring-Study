@@ -21,6 +21,10 @@
         <property name="name" value="kun"/>
     </bean>
 
+    <bean id="userl" class="com.hou.pojo.UserL">
+        <property name="name" value="tlm"/>
+    </bean>
+
     <alias name="user" alias="user2aaa"/>
 
 
