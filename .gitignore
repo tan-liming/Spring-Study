@@ -1,1 +1,13 @@
 /target/
+target/
+/spring-01-ioc1/target/
+/spring-02-hellospring/target/
+/spring-03-ioc2/target/
+/spring-04-di/target/
+/spring-05-auto/target/
+/spring-06-zhujie/target/
+/spring-07-appconfig/target/
+/spring-08-proxy/target/
+/spring-09-aop/target/
+/spring-10-mybatis/target/
+/spring-11-Transaction/target/
