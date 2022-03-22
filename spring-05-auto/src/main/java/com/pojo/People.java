@@ -9,7 +9,7 @@ public class People {
     @Autowired
     private Cat cat;
     @Autowired
-    @Qualifier(value = "dog")
+    @Qualifier(value = "dog1") //加了这个后，就只找dog1了，不会先去找dog
     private Dog dog;
     private String name;
 

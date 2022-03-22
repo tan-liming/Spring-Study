@@ -10,7 +10,7 @@ public class Mytest {
         ApplicationContext context=new ClassPathXmlApplicationContext("beans.xml");
         People people = context.getBean("people", People.class);
         people.getCat().jiao();
-
+        System.out.println(people.getDog().getName());
     }
 
 }
