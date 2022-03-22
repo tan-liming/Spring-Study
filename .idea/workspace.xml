@@ -4,45 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36892678-1a94-4a29-9dcb-e8b305ed2080" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/src/main/java/com/hou/pojo/UserL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/21c1a86c-515d-4304-9993-12dcf30461a6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/21c1a86c-515d-4304-9993-12dcf30461a6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="36892678-1a94-4a29-9dcb-e8b305ed2080" name="Default Changelist" comment="Default Changelist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-01-ioc1/spring-01-ioc1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-01-ioc1/target/classes/com/hou/dao/UserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-01-ioc1/target/classes/com/hou/dao/UserDaoImp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-01-ioc1/target/classes/com/hou/dao/UserDaoMysqlImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-01-ioc1/target/classes/com/hou/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-01-ioc1/target/classes/com/hou/service/UserServiceImp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-01-ioc1/target/test-classes/MyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-02-hellospring/spring-02-hellospring.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-02-hellospring/target/classes/META-INF/spring-02-hellospring.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-03-ioc2/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-03-ioc2/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-03-ioc2/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-03-ioc2/src/main/resources/beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-03-ioc2/src/test/java/Mytest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-03-ioc2/src/test/java/Mytest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-03-ioc2/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-03-ioc2/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-03-ioc2/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-03-ioc2/target/classes/beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-03-ioc2/target/test-classes/Mytest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-03-ioc2/target/test-classes/Mytest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-05-auto/spring-05-auto.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-05-auto/src/main/java/com/pojo/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-05-auto/src/main/java/com/pojo/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-05-auto/src/main/java/com/pojo/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-05-auto/src/main/java/com/pojo/People.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-05-auto/src/main/java/com/pojo/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-05-auto/src/main/java/com/pojo/Cat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-05-auto/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-05-auto/src/main/resources/beans.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-05-auto/src/test/java/Mytest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-05-auto/src/test/java/Mytest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-05-auto/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-05-auto/target/classes/beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-05-auto/target/classes/com/pojo/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-05-auto/target/classes/com/pojo/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-05-auto/target/classes/com/pojo/People.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-05-auto/target/classes/com/pojo/People.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-05-auto/target/test-classes/Mytest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-05-auto/target/test-classes/Mytest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-06-zhujie/spring-06-zhujie.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-09-aop/target/classes/META-INF/spring-09-aop.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-10-mybatis/spring-10-mybatis.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-11-Transaction/spring-11-Transaction.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-11-Transaction/target/classes/com/mapper/UserMapperIml2.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-11-Transaction/target/classes/com/mapper/UserMapperIml2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -374,8 +340,16 @@
       <workItem from="1586149490394" duration="23231000" />
       <workItem from="1586183972952" duration="6702000" />
       <workItem from="1647869317541" duration="5906000" />
-      <workItem from="1647952399106" duration="2926000" />
+      <workItem from="1647952399106" duration="3838000" />
     </task>
+    <task id="LOCAL-00001" summary="@Autowired和@Qualifer">
+      <created>1647958156646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647958156646</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -486,6 +460,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="@Autowired和@Qualifer" />
+    <option name="LAST_COMMIT_MESSAGE" value="@Autowired和@Qualifer" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

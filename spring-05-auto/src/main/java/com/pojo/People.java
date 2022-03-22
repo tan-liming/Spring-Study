@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Qualifier;
 
 public class People {
 
-    @Autowired
+    @Autowired //先按类型，如果有多个相同类型，就按名字
     private Cat cat;
     @Autowired
     @Qualifier(value = "dog1") //加了这个后，就只找dog1了，不会先去找dog

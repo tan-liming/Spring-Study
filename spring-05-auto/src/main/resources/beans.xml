@@ -8,7 +8,12 @@
 
     <context:annotation-config/>
 
-    <bean id="cat111" class="com.pojo.Cat"/>
+    <bean id="cat111" class="com.pojo.Cat">
+        <property name="name" value="Tom"/>
+    </bean>
+    <bean id="cat" class="com.pojo.Cat">
+        <property name="name" value="Caffe"/>
+    </bean>
     <bean id="dog" class="com.pojo.Dog">
         <property name="name" value="旺财"/>
     </bean>

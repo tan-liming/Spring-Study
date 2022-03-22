@@ -11,6 +11,7 @@ public class Mytest {
         People people = context.getBean("people", People.class);
         people.getCat().jiao();
         System.out.println(people.getDog().getName());
+        System.out.println(people.getCat().getName());
     }
 
 }
