@@ -4,11 +4,57 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36892678-1a94-4a29-9dcb-e8b305ed2080" name="Default Changelist" comment="Default Changelist">
+    <list default="true" id="36892678-1a94-4a29-9dcb-e8b305ed2080" name="Default Changelist" comment="更新.gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-05-auto/src/main/java/com/pojo/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-05-auto/src/main/java/com/pojo/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-05-auto/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-05-auto/src/main/resources/beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-05-auto/src/test/java/Mytest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-05-auto/src/test/java/Mytest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-02-hellospring/target/classes/com/hou/pojo/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-02-hellospring/target/classes/com/hou/pojo/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-02-hellospring/target/test-classes/Mytest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-02-hellospring/target/test-classes/Mytest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-03-ioc2/target/classes/com/hou/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-03-ioc2/target/classes/com/hou/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-03-ioc2/target/classes/com/hou/pojo/UserL.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-03-ioc2/target/classes/com/hou/pojo/UserL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-03-ioc2/target/classes/com/hou/pojo/UsetT.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-03-ioc2/target/classes/com/hou/pojo/UsetT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-03-ioc2/target/test-classes/Mytest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-03-ioc2/target/test-classes/Mytest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-04-di/target/classes/com/pojo/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-04-di/target/classes/com/pojo/Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-04-di/target/classes/com/pojo/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-04-di/target/classes/com/pojo/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-04-di/target/classes/com/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-04-di/target/classes/com/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-04-di/target/test-classes/Mytest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-04-di/target/test-classes/Mytest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-05-auto/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-05-auto/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-05-auto/target/classes/com/pojo/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-05-auto/target/classes/com/pojo/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-05-auto/target/classes/com/pojo/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-05-auto/target/classes/com/pojo/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-05-auto/target/classes/com/pojo/People.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-05-auto/target/classes/com/pojo/People.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-05-auto/target/test-classes/Mytest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-05-auto/target/test-classes/Mytest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-06-zhujie/src/main/java/com/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-06-zhujie/src/main/java/com/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-06-zhujie/target/classes/com/conteoller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-06-zhujie/target/classes/com/conteoller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-06-zhujie/target/classes/com/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-06-zhujie/target/classes/com/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-06-zhujie/target/classes/com/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-06-zhujie/target/classes/com/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-06-zhujie/target/classes/com/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-06-zhujie/target/classes/com/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-06-zhujie/target/test-classes/Mytest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-06-zhujie/target/test-classes/Mytest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-07-appconfig/src/main/java/com/config/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-07-appconfig/src/main/java/com/config/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-07-appconfig/src/main/java/com/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-07-appconfig/src/main/java/com/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-07-appconfig/target/classes/com/config/Config2.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-07-appconfig/target/classes/com/config/Config2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-07-appconfig/target/classes/com/config/MyConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-07-appconfig/target/classes/com/config/MyConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-07-appconfig/target/classes/com/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-07-appconfig/target/classes/com/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-07-appconfig/target/test-classes/Mytest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-07-appconfig/target/test-classes/Mytest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-08-proxy/target/classes/com/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-08-proxy/target/classes/com/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-08-proxy/target/classes/com/Host.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-08-proxy/target/classes/com/Host.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-08-proxy/target/classes/com/ProxyInvocation.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-08-proxy/target/classes/com/ProxyInvocation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-08-proxy/target/classes/com/Rent.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-08-proxy/target/classes/com/Rent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-09-aop/target/classes/com/diy/Annotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-09-aop/target/classes/com/diy/Annotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-09-aop/target/classes/com/diy/DiyPointcut.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-09-aop/target/classes/com/diy/DiyPointcut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-09-aop/target/classes/com/log/AfterLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-09-aop/target/classes/com/log/AfterLog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-09-aop/target/classes/com/log/Log.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-09-aop/target/classes/com/log/Log.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-09-aop/target/classes/com/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-09-aop/target/classes/com/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-09-aop/target/classes/com/service/UserServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-09-aop/target/classes/com/service/UserServiceImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-09-aop/target/test-classes/Mytest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-09-aop/target/test-classes/Mytest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-10-mybatis/target/classes/com/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-10-mybatis/target/classes/com/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-10-mybatis/target/classes/com/mapper/UserMapperIml2.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-10-mybatis/target/classes/com/mapper/UserMapperIml2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-10-mybatis/target/classes/com/mapper/UserMapperImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-10-mybatis/target/classes/com/mapper/UserMapperImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-10-mybatis/target/classes/com/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-10-mybatis/target/classes/com/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-10-mybatis/target/test-classes/Mytest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-10-mybatis/target/test-classes/Mytest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-11-Transaction/target/classes/com/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-11-Transaction/target/classes/com/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-11-Transaction/target/classes/com/mapper/UserMapperIml2.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-11-Transaction/target/classes/com/mapper/UserMapperIml2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-11-Transaction/target/classes/com/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-11-Transaction/target/classes/com/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-11-Transaction/target/test-classes/Mytest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-11-Transaction/target/test-classes/Mytest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +173,12 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Environment/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="D:\Environment\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="downloadDocsAutomatically" value="true" />
@@ -262,7 +314,7 @@
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -276,21 +328,7 @@
       <recent name="E:\IDEA\springstudy\spring-04-di\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Mytest.test">
-    <configuration name="Mytest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mytest" />
-      <module name="spring-10-mybatis" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Mytest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mytest" />
-      <module name="spring-11-Transaction" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.Mytest">
     <configuration name="Mytest (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mytest" />
       <module name="spring-02-hellospring" />
@@ -301,6 +339,23 @@
     <configuration name="Mytest (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mytest" />
       <module name="spring-03-ioc2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mytest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mytest" />
+      <module name="spring-07-appconfig" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mytest.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-06-zhujie" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Mytest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -317,6 +372,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Mytest" />
+        <item itemvalue="JUnit.Mytest.test (1)" />
         <item itemvalue="JUnit.Mytest.test" />
         <item itemvalue="应用程序.Mytest (5)" />
         <item itemvalue="应用程序.Mytest (4)" />
@@ -340,7 +397,9 @@
       <workItem from="1586149490394" duration="23231000" />
       <workItem from="1586183972952" duration="6702000" />
       <workItem from="1647869317541" duration="5906000" />
-      <workItem from="1647952399106" duration="3838000" />
+      <workItem from="1647952399106" duration="4010000" />
+      <workItem from="1647959222432" duration="232000" />
+      <workItem from="1647959479822" duration="2977000" />
     </task>
     <task id="LOCAL-00001" summary="@Autowired和@Qualifer">
       <created>1647958156646</created>
@@ -349,7 +408,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647958156646</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="@Autowired //先按类型，如果有多个相同类型，就按名字">
+      <created>1647958997663</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647958997663</updated>
+    </task>
+    <task id="LOCAL-00003" summary="更新.gitignore">
+      <created>1647959388533</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647959388534</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -461,9 +534,26 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="@Autowired和@Qualifer" />
-    <option name="LAST_COMMIT_MESSAGE" value="@Autowired和@Qualifer" />
+    <MESSAGE value="@Autowired //先按类型，如果有多个相同类型，就按名字" />
+    <MESSAGE value="更新.gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新.gitignore" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

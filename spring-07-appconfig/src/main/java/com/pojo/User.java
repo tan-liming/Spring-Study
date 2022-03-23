@@ -3,7 +3,7 @@ package com.pojo;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
-@Component
+@Component //可以不写
 public class User {
 
     @Value("dong")
