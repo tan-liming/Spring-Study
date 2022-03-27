@@ -21,7 +21,7 @@
 <!--        <aop:advisor advice-ref="afterLog" pointcut-ref="pointcut"/>-->
 <!--    </aop:config>-->
 
-    <!--方式二：自定义类-->
+    <!--方式二：自定义类 使用标签-->
     <bean id="diy" class="com.diy.DiyPointcut"/>
     <aop:config>
         <!--自定义切面，ref要引用的类-->
@@ -35,6 +35,7 @@
     </aop:config>
     <!--方式三：注解-->
     <bean id="ann" class="com.diy.Annotation"/>
-    <aop:aspectj-autoproxy/>
+    <!--开启注解支持！ JDK动态代理（默认 proxy-target-class=false）， cglib（proxy-target-class=true）-->
+    <aop:aspectj-autoproxy proxy-target-class="false"/>
 
 </beans>
