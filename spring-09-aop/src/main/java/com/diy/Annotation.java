@@ -11,22 +11,22 @@ public class Annotation {
 
     @Before("execution(* com.service.UserServiceImp.*(..))")
     public void before(){
-        System.out.println("before");
+        System.out.println("注解之前");
     }
 
     @After("execution(* com.service.UserServiceImp.*(..))")
     public void after(){
-        System.out.println("after");
+        System.out.println("注解之后");
     }
 
     //在环绕增强中，我们可以给地暖管一个参数，代表我们要获取切入的点
     @Around("execution(* com.service.UserServiceImp.*(..))")
     public void around(ProceedingJoinPoint joinPoint) throws Throwable {
-        System.out.println("around");
+        System.out.println("注解周围");
 
         Object proceed = joinPoint.proceed();
 
-        System.out.println("after around");
+        System.out.println("注解周围之后");
     }
 
 }
