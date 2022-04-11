@@ -5,7 +5,7 @@
 
 <mapper namespace="com.mapper.UserMapper">
     <select id="selectUser" resultType="user">
-        select * from mybatis.user;
+        select * from mydatabase.user;
     </select>
 
 </mapper>
